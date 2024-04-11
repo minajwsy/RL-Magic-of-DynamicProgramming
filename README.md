@@ -1,3 +1,4 @@
+# 이 코드의 실행은 -> Kamp 개발환경을 이용하라!(원본의 링크를 단순 클릭만 해서는 Jupyterlab version error!) 
 <h1 align="center">
     Magic of Dynamic Programming
    <!--img src="imgur.link.png" alt="Magic of Dynamic Programming" title="Magic of Dynamic Programming" /-->
